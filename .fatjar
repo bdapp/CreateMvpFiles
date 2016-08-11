@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 11 11:42:24 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MVPFilesCreate_fat.jar
+manifest.mergeall=true
+manifest.mainclass=StartMVP
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
